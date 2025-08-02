@@ -12,6 +12,7 @@ return {
         "nicolesoph36",
         "jamesyap49",
         "malonzo1x",
+        "1ZYCO1"
     },
 
     RequireStack = {
