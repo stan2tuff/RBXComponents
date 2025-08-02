@@ -16,6 +16,6 @@ return {
 
     RequireStack = {
         11560761226, -- original
-        987654321,
+        12573742929,
     }
 }
